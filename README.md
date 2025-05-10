@@ -39,8 +39,8 @@ Spaceport currently offers two Starter Kits to get your application off the grou
 
 
 ### Other Pre-requisites
-- Java 8 or higher (Amazon Corretto 11 or Azul Zulu 11 recommended)
-- CouchDB 2.0 or higher (3.5.X Recommended)
+- Java 8 SE or higher (Amazon Corretto 11 (LTE) or Azul Zulu 11 (LTE) recommended)
+- CouchDB 2.0 or higher (3.5.X+ Recommended)
 
 
 ### Startup
