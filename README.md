@@ -22,7 +22,7 @@ On the front end, Spaceport embraces the universal standards of HTML, CSS, and J
 
 ### 2.0.X Pre-release
 
-After nearly a decade of internal use powering numerous closed-source products, Spaceport is preparing for its open-source debut. While some features are still under development, Spaceport already offers a robust set of mature core functionalities ready for immediate use. Current efforts are heavily focused on comprehensive testing, code refinement, and thorough documentation in anticipation of the fully open-source Spaceport 2.1 stable release. In the interim, Spaceport remains closed-source but is freely available for both personal and commercial applications. For specific licensing needs, please contact info@spaceport.com.co.
+After nearly a decade of internal use powering numerous closed-source products, Spaceport is preparing for its open-source debut. While some features are still under development, Spaceport already offers a robust set of mature core functionalities ready for immediate use. Current efforts are heavily focused on comprehensive testing, code refinement, and thorough documentation in anticipation of the fully open-source Spaceport 2.1 stable release. In the interim, Spaceport remains closed-source but is freely available for both personal and commercial applications. For specific licensing needs, please contact info@spaceport.sh.
 
 
 ### Getting Started
